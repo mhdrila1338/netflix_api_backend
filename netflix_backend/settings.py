@@ -66,6 +66,7 @@ AUTH_USER_MODEL = 'accounts.CustomUser'
 
 ROOT_URLCONF = 'netflix_backend.urls'
 
+
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
